@@ -24,9 +24,10 @@ banner = """
 ╚══════╝╚══════╝╚═╝  ╚═══╝     ╚═════╝ ╚═════╝ ╚══════╝
 
 		Automated Testing by: 
-		- Brett Nieman
-		- Richard Clark
-		- Benjamin Cashman
+		- B Nieman
+		- R Clark
+		- B Cashman
+		
 -------------------------------------------------------
 -------------------------------------------------------
 """	
